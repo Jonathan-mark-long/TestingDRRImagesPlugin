@@ -1,0 +1,8 @@
+C:\Users\j.long\source\plugins\TestingDRR.esapi.dll
+C:\Users\j.long\source\plugins\TestingDRR.esapi.pdb
+C:\Users\j.long\source\repos\Testing DRR Images\obj\x64\Debug\Testing DRR Images.csproj.AssemblyReference.cache
+C:\Users\j.long\source\repos\Testing DRR Images\obj\x64\Debug\Testing_DRR_Images.Form1.resources
+C:\Users\j.long\source\repos\Testing DRR Images\obj\x64\Debug\Testing DRR Images.csproj.GenerateResource.cache
+C:\Users\j.long\source\repos\Testing DRR Images\obj\x64\Debug\Testing DRR Images.csproj.CoreCompileInputs.cache
+C:\Users\j.long\source\repos\Testing DRR Images\obj\x64\Debug\TestingDRR.esapi.dll
+C:\Users\j.long\source\repos\Testing DRR Images\obj\x64\Debug\TestingDRR.esapi.pdb

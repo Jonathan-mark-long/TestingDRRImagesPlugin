@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing DRR Images", "Testing DRR Images.csproj", "{BDFAA4B1-822B-4352-83E2-213EE7407338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFAA4B1-822B-4352-83E2-213EE7407338}.Debug|x64.ActiveCfg = Debug|x64
+		{BDFAA4B1-822B-4352-83E2-213EE7407338}.Debug|x64.Build.0 = Debug|x64
+		{BDFAA4B1-822B-4352-83E2-213EE7407338}.Release|x64.ActiveCfg = Release|x64
+		{BDFAA4B1-822B-4352-83E2-213EE7407338}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4692D493-B4E1-45A5-A3C2-BE00A7F60465}
+	EndGlobalSection
+EndGlobal
